@@ -1,1 +1,1 @@
-Just me going through Advent of Code, 2024. Using this to learn C++. 
+Just me going through Advent of Code. Using this to learn C++. 

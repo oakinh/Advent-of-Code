@@ -1,2 +1,5 @@
-build/
 devnotes.md
+.vscode
+cmake-build-debug
+CMakeFiles
+build/
